@@ -465,6 +465,7 @@ footer {
     text-align: center;
     box-shadow: var(--shadow-lg);
     border: 1px solid var(--border);
+    marging:100px auto;
 }
 
 
@@ -576,4 +577,5 @@ footer {
 
 
 }
+
 
