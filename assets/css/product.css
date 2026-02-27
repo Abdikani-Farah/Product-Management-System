@@ -563,11 +563,15 @@ footer {
     }
 
 }
+#low-stock{
+    color: var(--danger);
+}
 
 @media (max-width: 500px) {
     .container {
 
         grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     }
+
 
 }
